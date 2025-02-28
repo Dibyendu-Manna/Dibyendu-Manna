@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<<<<<<< HEAD
 something is added
+=======
+ something is written here
+>>>>>>> 8db5077 (added demo.html and readme file is updated)
 
 -->
